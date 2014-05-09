@@ -1,5 +1,5 @@
-Installation
-============
+Installation on Windows Server
+==============================
 
 Core requirements
 -----------------
